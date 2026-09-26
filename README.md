@@ -2,15 +2,6 @@
 
 My cybersecurity learning journey from fundamentals to internship readiness.
 
-## 🎯 Goals
-
-- Build strong cybersecurity fundamentals
-- Develop practical hands-on skills
-- Complete labs and CTFs
-- Build cybersecurity projects
-- Document my learning through write-ups
-- Prepare for cybersecurity internships
-
 ## 📚 Learning Path
 
 - Linux & Networking
@@ -37,8 +28,4 @@ My cybersecurity learning journey from fundamentals to internship readiness.
 - `tools/` — Python/security tools
 - `projects/` — Cybersecurity projects
 
-## 🚀 Progress
 
-Started: October 2026
-
-> Learning consistently, building practically, and documenting the journey.
