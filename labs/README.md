@@ -15,3 +15,9 @@ labs/
 ├── hackthebox/      # HTB machine analysis and reports
 ├── portswigger/     # Web security lab solutions
 └── local-labs/      # Custom home lab setups and testing
+
+## Index of Labs
+
+| Date | Platform / Source | Lab Name | Topic / Focus | Difficulty |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-09-26 | TryHackMe | [Linux Fundamentals Pt 1 & 2](./tryhackme/linux-fundamentals) | Linux CLI & Permissions | Easy |
