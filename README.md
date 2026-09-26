@@ -23,7 +23,7 @@ My cybersecurity learning journey from fundamentals to internship readiness.
 
 ## 📂 Repository Structure
 
-- `notes/` — Learning notes
+
 - `labs/` — Lab practice and write-ups
 - `tools/` — Python/security tools
 - `projects/` — Cybersecurity projects
