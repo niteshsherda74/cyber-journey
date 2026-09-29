@@ -8,7 +8,8 @@ A Python script designed to recursively scan, map, and list directory contents a
 
 Below is a preview of the tool output in action:
 
-![File Listing Screenshot](./assets/usage-screenshot.png)
+<img width="958" height="539" alt="Screenshot 2026-09-29 164640" src="https://github.com/user-attachments/assets/3d41b444-5bc3-49ce-b761-78b4d2fcc234" />
+
 
 ---
 
