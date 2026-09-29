@@ -28,7 +28,9 @@ Below is a preview of the tool output in action:
 1. Open your terminal and navigate to the tool directory:
    ```bash
    cd tools/filehashing
-2.   python filehashing.py <path_to_file>
-3.example :
+2.  ```bash
+     python filehashing.py <path_to_file>
+3.example : ```bash
+
            python filehashing.py sample.txt
      
