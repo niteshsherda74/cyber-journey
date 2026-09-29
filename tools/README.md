@@ -5,8 +5,9 @@ This folder contains useful custom Python scripts and security automation tools.
 ## Available Tools
 
 | Tool Name | Description | Usage |
-| :--- | :--- | :--- |
-| `file-listing.py` | Lists files and directory structures | `python file-listing.py` |
+| ----- | ----- | ----- |
+| file-listing.py | Lists files and directory structures | `python file-listing.py` |
+| filehashing.py | Calculates MD5 and SHA-256 hashes of a file | `python filehashing.py` |
 
 ## How to Add New Tools
 
