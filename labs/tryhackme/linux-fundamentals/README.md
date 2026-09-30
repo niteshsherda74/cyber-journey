@@ -6,21 +6,35 @@
 
 ---
 
-## Key Commands & Takeaways
+## 🧠 What I Practiced
 
-### Part 1: Basic CLI & File System
-- `whoami` & `echo` – Identity & text output
-- `ls`, `cd`, `pwd` – Directory navigation
-- `cat`, `less`, `head`, `tail` – Viewing file contents
-- `find`, `grep` – Searching for files and string patterns
+### Part 1 — Linux Basics
 
-### Part 2: Advanced System Commands
-- `chmod` & `chown` – Managing file permissions & ownership
-- `apt` / `dpkg` – Package management and installing software
-- `systemctl` / `service` – Managing background services and processes
+- whoami and echo — identifying the current user and printing text
+- ls, cd, pwd — listing and navigating directories
+- cat, less, head, tail — viewing file contents
+- find, grep — finding files and searching text
+
+### Part 2 — Working with Linux
+
+- chmod and chown — understanding permissions and ownership
+- apt / dpkg — package management
+- systemctl / service — managing services
+- Shell operators and command-line workflows
 
 ---
 
-## Proof of Completion
-<!-- Replace the link below with a link to your TryHackMe public profile or a screenshot of your completion badge -->
+## 🔐 Key Takeaways
+
+- Linux command-line skills are important for cybersecurity work.
+- File permissions and ownership help control access to system resources.
+- Search tools such as find and grep are useful during system analysis.
+- Understanding basic package and service management is useful when working with Linux systems.
+
+---
+
+## 📸 Proof of Completion
+
 - [My TryHackMe Profile](https://tryhackme.com/niteshpachar7)
+
+> This write-up documents the Linux Fundamentals work completed during my learning journey. Detailed personal notes remain in Notion.
