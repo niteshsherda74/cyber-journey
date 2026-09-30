@@ -1,6 +1,6 @@
-# 📂 File Listing Tool (`file-listing.py`)
+# 📂 File Listing Tool (filelisting.py)
 
-A Python script designed to recursively scan, map, and list directory contents and file structures.
+A simple Python utility that lists the files and directories in the current working directory.
 
 ---
 
@@ -8,23 +8,37 @@ A Python script designed to recursively scan, map, and list directory contents a
 
 Below is a preview of the tool output in action:
 
-<img width="958" height="539" alt="Screenshot 2026-09-29 164640" src="https://github.com/user-attachments/assets/3d41b444-5bc3-49ce-b761-78b4d2fcc234" />
-
+<img width="958" height="539" alt="File listing tool output" src="https://github.com/user-attachments/assets/3d41b444-5bc3-49ce-b761-78b4d2fcc234" />
 
 ---
 
 ## ⚙️ Features
 
-- **Recursive Directory Scan**: Traverses subdirectories to map complete folder hierarchies.
-- **System Audit & Recon**: Quick tool for cataloging local file structures during system analysis or log management.
+- **Directory Listing**: Displays the entries in the current working directory.
+- **Simple Recon Utility**: Useful for quickly checking what files and directories are present before further analysis.
+
+> **Note:** The current version lists only the immediate contents of the working directory; it does not recursively scan subdirectories.
 
 ---
 
 ## 🚀 How to Run
 
 1. Open your terminal and navigate to the tool directory:
+
    ```bash
    cd tools/filelisting
-  then run with :
-  ```bash
-   python file-listing.py
+   ```
+
+2. Run the script:
+
+   ```bash
+   python filelisting.py
+   ```
+
+---
+
+## 🧠 What I Learned
+
+- Using Python's os module to interact with the filesystem.
+- Using os.listdir() to retrieve directory contents.
+- Running a Python script from the command line.
