@@ -1,16 +1,37 @@
 # Tools Directory
 
-This folder contains useful custom Python scripts and security automation tools.
+This directory contains small Python utilities developed during the cybersecurity learning journey. Each tool is organized in its own folder with source code and documentation.
 
 ## Available Tools
 
-| Tool Name | Description | Usage |
-| ----- | ----- | ----- |
-| file-listing.py | Lists files and directory structures | `python file-listing.py` |
-| filehashing.py | Calculates MD5 and SHA-256 hashes of a file | `python filehashing.py` |
+| Tool | Purpose | Directory |
+| --- | --- | --- |
+| **File Listing** | Lists files in the current directory | [filelisting](./filelisting/) |
+| **File Hashing** | Calculates MD5 and SHA-256 hashes | [filehashing](./filehashing/) |
+| **Threaded TCP Port Scanner** | Scans an authorized TCP port range concurrently | [portscanner](./portscanner/) |
 
-## How to Add New Tools
+## Structure
 
-When uploading a new tool to this directory:
-1. Ensure the script is well-documented with inline comments.
-2. Update the table above with the script name, a brief description, and standard execution syntax.
+Each tool follows the same structure:
+
+```text
+tools/
+├── README.md
+├── filelisting/
+│   ├── filelisting.py
+│   └── readme.md
+├── filehashing/
+│   ├── filehashing.py
+│   └── README.md
+└── portscanner/
+    ├── portscanner.py
+    └── README.md
+```
+
+## Usage
+
+Open the README inside the required tool directory for installation, usage, implementation details, and learning objectives.
+
+## Security Notice
+
+These tools are intended for **learning and authorized security testing only**. Do not scan, probe, or otherwise test systems without explicit permission.
