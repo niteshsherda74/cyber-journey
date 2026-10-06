@@ -9,6 +9,7 @@ This directory contains small Python utilities developed during the cybersecurit
 | **File Listing** | Lists files in the current directory | [filelisting](./filelisting/) |
 | **File Hashing** | Calculates MD5 and SHA-256 hashes | [filehashing](./filehashing/) |
 | **Threaded TCP Port Scanner** | Scans an authorized TCP port range concurrently | [portscanner](./portscanner/) |
+| **Bash Scripts** | Small Bash scripts for system info, permissions, and backups | [bashscripts](./bashscripts/) |
 
 ## Structure
 
